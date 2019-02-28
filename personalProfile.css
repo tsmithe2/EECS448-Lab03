@@ -1,0 +1,47 @@
+/*
+background-color: red;
+color: white;
+font-family: arial;
+font-size: 22pt;
+background-image: url(put a url here);
+background-size: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;*/
+
+a:hover
+{
+    background-color: red;
+    color: yellow;
+}
+
+#div1
+{
+    background-color: black;
+    color: white;
+}
+#div2
+{
+    background-color: black;
+    color: white;
+}
+h2.bio
+{
+    color: red;
+}
+#harry
+{
+    height: 400px;
+    width: 400px;
+}
+body
+{
+    background-image: url(gryf.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+p
+{
+    font-family: arial;
+    font-size: 15pt;
+}
