@@ -1,0 +1,9 @@
+#div1
+{
+    text-align: center;
+}
+a:hover
+{
+    color: red;
+    background-color: blue;
+}
